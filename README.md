@@ -6,7 +6,7 @@ TcRdiff is a tool kit for differential motif analysis. It uses results from GLIP
 ### Step 2: Use functions from the tcRdiff package to perform differential motif analysis and make volcano plots.
 
 
-# Instaling package
+# Installing package
 ```R
 require(devtools)
 install_github("sujitsilas/tcRdiff")
