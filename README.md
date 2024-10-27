@@ -11,5 +11,5 @@ TcRdiff is a R package for differential motif analysis. It uses results from GLI
 require(devtools)
 install_github("sujitsilas/tcRdiff")
 ```
-tcRdiff can be successfully installed on Mac OS X, Linux, and Windows, using the devtools package to install directly from GitHub
+tcRdiff can be successfully installed on Mac OS X, Linux, and Windows, using the devtools package directly from GitHub
 
